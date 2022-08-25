@@ -5,8 +5,8 @@ namespace SnakeAndLadder
     {
         static void main(string[] args)
         {
-            Game game = new Game();
-            game.Play();
+            playerPosition PlayerPosition = new playerPosition();
+            PlayerPosition.WINNING_POSITION;
         }
     }
 }
