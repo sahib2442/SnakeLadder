@@ -6,7 +6,7 @@ namespace SnakeAndLadder
         public int DiceRoll()
         {
             Random random = new Random();
-            Console.WriteLine("playerPosition is 0");
+            Console.WriteLine("playerPosition is the 0");
         }
     }
 }
