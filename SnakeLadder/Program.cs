@@ -7,6 +7,7 @@ namespace SnakeAndLadder
         {
             playerPosition PlayerPosition = new playerPosition();
             PlayerPosition.WINNING_POSITION;
+            Console.WriteLine(WINNING_POSITION);
         }
     }
 }
